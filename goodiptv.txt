@@ -85,7 +85,10 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-673532
 康巴卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 体育频道,#genre#
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
@@ -93,6 +96,7 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32
 新视觉HD,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 陕西频道,#genre# 
 宝鸡一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
 宝鸡二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
@@ -122,6 +126,7 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32
 汉中二套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 汉中三套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
 神木,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+周至,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226988/index.m3u8
 城固台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 勉县,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002415/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 港台国外,#genre#
