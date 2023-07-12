@@ -97,8 +97,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
 广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413
 新视觉HD,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 陕西频道,#genre# 
 宝鸡一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
