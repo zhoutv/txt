@@ -174,7 +174,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3, http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
