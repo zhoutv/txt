@@ -100,8 +100,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 广东体育,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
-广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
-广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413
 广东体育,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
