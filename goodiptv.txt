@@ -133,7 +133,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 杭州少儿体育,http://jh.d7g.cn/tv/migu.php?id=hzse
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 陕西频道,#genre# 
 宝鸡一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
