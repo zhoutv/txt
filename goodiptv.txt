@@ -211,9 +211,9 @@ TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551.flv
 华视,https://fsv4.yj011.net/sat/tv111.flv
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
 翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
-Rhk31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
-Rhk32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
-Rhk32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+RTHK31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
+RTHK32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 HOYTV,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
 HOYTV资讯,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
