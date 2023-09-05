@@ -246,7 +246,7 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+无线财经资讯台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 RTHK31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
 RTHK32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
