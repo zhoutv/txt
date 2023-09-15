@@ -112,8 +112,8 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
+北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.243:8000
 北京体育休闲,http://www.youku.cf:4022/udp/239.3.1.97:8001
-北京体育休闲,http://hf.bbtu.top:10000/udp/239.3.1.97:8001
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
