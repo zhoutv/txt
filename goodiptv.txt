@@ -111,6 +111,8 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_8822485
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
+北京体育休闲,http://125.34.20.214:8888/rtp/239.3.1.243:8000
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.243:8000
 北京体育休闲,http://www.youku.cf:4022/udp/239.3.1.97:8001
@@ -122,7 +124,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 广东体育,https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 魅力足球,http://iptv.ikuai.tv:8003/udp/229.58.190.112:5000
-魅力足球,http://www.51romzj.love:5678/cqyx.php?id=mlzqHD
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -244,9 +245,11 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
 星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551.flv
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
