@@ -121,10 +121,14 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 新视觉HD,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 广东体育,http://113.86.204.68:808/hls/21/index.m3u8
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
+山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 咪咕直播,#genre#
@@ -238,6 +242,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
+翡翠台,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 TVBJ2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 TVB明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131 
