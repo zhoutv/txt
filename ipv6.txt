@@ -116,12 +116,11 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.243:8000
 北京体育休闲,http://www.youku.cf:4022/udp/239.3.1.97:8001
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 新视觉HD,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 广东体育,http://113.86.204.68:808/hls/21/index.m3u8
-广东体育,https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
-魅力足球,http://iptv.ikuai.tv:8003/udp/229.58.190.112:5000
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -245,7 +244,6 @@ TVB明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131 
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033 
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
-星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
@@ -293,8 +291,6 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 黑龙江少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-江苏教育,http://jh.d7g.cn/tv/migu.php?id=jsjy
-山东教育卫视,http://jh.d7g.cn/tv/migu.php?id=sdjy
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 江苏优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
