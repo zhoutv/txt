@@ -329,11 +329,6 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 金色学堂,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
 法治天地,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
 第一财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
@@ -383,3 +378,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
