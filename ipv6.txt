@@ -337,6 +337,10 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 河北公共,https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+广西综艺旅游,http://171.110.42.48:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.110.42.48:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.110.42.48:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.110.42.48:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 iHOT爱4K,#genre#
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 4k修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
