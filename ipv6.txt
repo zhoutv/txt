@@ -212,6 +212,7 @@ ELTA体育1台,rtmp://9sv2.mine.nu/sat/md041.flv
 扶风,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
 眉县,http://39.134.18.69/wh7f454c46tw257115731_1765766598/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227069/index.m3u8
 麟游,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227072/index.m3u8
+陕西卫视,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 陕西生活,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
