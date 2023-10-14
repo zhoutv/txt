@@ -249,6 +249,7 @@ ELTA体育1台,rtmp://9sv2.mine.nu/sat/md041.flv
 商洛二套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 安康一套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
 榆林一套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
+榆林二套,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226337/index.m3u8
 汉中一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 汉中二套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 汉中三套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
@@ -331,6 +332,8 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 江苏优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 地方频道,#genre#
+东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
+东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://220.231.188.200:8089/hls/20/index.m3u8
 深圳电视剧,http://220.231.188.200:8089/hls/21/index.m3u8
 深圳财经生活,http://220.231.188.200:8089/hls/22/index.m3u8
