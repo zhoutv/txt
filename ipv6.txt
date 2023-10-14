@@ -222,6 +222,7 @@ ELTA体育1台,rtmp://9sv2.mine.nu/sat/md041.flv
 陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
 陕西八套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 陕西农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+陕西农林卫视,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 陕西新闻资讯,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
 陕西都市青春,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
 陕西八套,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
