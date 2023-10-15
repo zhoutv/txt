@@ -111,6 +111,7 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_8822485
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
+北京体育休闲,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://angtv.cn/live/bjapp.php?id=tyxx
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
