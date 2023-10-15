@@ -230,6 +230,10 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 陕西公共,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
 陕西体育休闲,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
 西安新闻综合,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
+西安新闻综合,https://angtv.cc/test/xian.php?id=xaxw
+西安商务资讯,https://angtv.cc/test/xian.php?id=xasw
+西安影视,https://angtv.cc/test/xian.php?id=xays
+西安丝路,https://angtv.cc/test/xian.php?id=xasl
 西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
 西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
 西安商务资迅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
