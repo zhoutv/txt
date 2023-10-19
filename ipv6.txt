@@ -300,13 +300,14 @@ ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a8
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
-ViuTV,http://r.jdshipin.com/vSJvl
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,https://tv.iill.top/tvb/4
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+TVB星河,http://angtv.cc/jd/gdjx.php?id=xht2
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+ViuTV,http://r.jdshipin.com/vSJvl
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5ff5da44-1005-4c70-a653-eaa39d0672d9/index.m3u8?by=yeslivetv.com
@@ -331,6 +332,9 @@ CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 1905电影,http://zgntv.icu/live/1905.php?id=1905dy
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
@@ -360,6 +364,8 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
 东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 广东珠江,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://angtv.cc/jd/gdlz.php?id=gdzj2
 大湾区卫视,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
@@ -374,8 +380,10 @@ iHOT爱4K,#genre#
 4k修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+广东4K超高清,http://angtv.cc/jd/gdjx.php?id=gd4k
 4K地理台,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 4k自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
