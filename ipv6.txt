@@ -133,6 +133,12 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
+ELTA体育1台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-02a039f4-6b42-46d1-8fd9-52a37eed01d7/index.m3u8?by=yeslivetv.com
+ELTA体育2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8fbfcbf2-c671-4f3c-8080-ea7a29211b3c/index.m3u8?by=yeslivetv.com
+ELTA体育3台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-52e76209-f3d6-41fb-8623-efec93886f42/index.m3u8?by=yeslivetv.com
+ELEVEN1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a65627efa874/index.m3u8?by=yeslivetv.com
+ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
+纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -291,9 +297,13 @@ ViuTV,http://r.jdshipin.com/vSJvl
 无线新闻,https://tv.iill.top/tvb/4
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5ff5da44-1005-4c70-a653-eaa39d0672d9/index.m3u8?by=yeslivetv.com
+东森新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
+年代新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
