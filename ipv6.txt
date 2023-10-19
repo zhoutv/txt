@@ -111,6 +111,7 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_8822485
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
+五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 北京体育休闲,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://angtv.cn/live/bjapp.php?id=tyxx
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
@@ -131,6 +132,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 山东体育,http://27.210.71.134:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+劲爆体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
 ELTA体育1台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-02a039f4-6b42-46d1-8fd9-52a37eed01d7/index.m3u8?by=yeslivetv.com
@@ -140,6 +142,7 @@ ELEVEN1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a6
 ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
 纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
+深圳体育健康,http://angtv.cn/live/guangzhou.php?id=jingsai
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
@@ -148,6 +151,11 @@ ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a8
 杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
 纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+广州南国都市,http://angtv.cn/live/guangzhou.php?id=shenghuo
+广州竞赛,http://angtv.cn/live/guangzhou.php?id=jingsai
+广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
+江苏体育,http://angtv.cn/live/jstv.php?id=jsty
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 咪咕直播,#genre#
@@ -348,9 +356,13 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 江苏优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 地方频道,#genre#
+东莞新闻综合,http://ainm.cc/a/play/php/gudou.php?id=dg1hd
 东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
 东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+广东珠江,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+广东珠江,http://angtv.cc/jd/gdlz.php?id=gdzj2
+大湾区卫视,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
