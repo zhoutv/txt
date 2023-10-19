@@ -362,6 +362,7 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 地方频道,#genre#
 东莞新闻综合,http://ainm.cc/a/play/php/gudou.php?id=dg1hd
 东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
+东莞生活资讯,http://ainm.cc/a/play/php/gudou.php?id=dg2hd
 东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
