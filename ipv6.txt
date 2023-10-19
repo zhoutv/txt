@@ -134,7 +134,6 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
-深圳体育健康,http://220.231.188.200:8089/hls/24/index.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
@@ -342,13 +341,6 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
 东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-深圳都市,http://220.231.188.200:8089/hls/20/index.m3u8
-深圳电视剧,http://220.231.188.200:8089/hls/21/index.m3u8
-深圳财经生活,http://220.231.188.200:8089/hls/22/index.m3u8
-深圳娱乐,http://220.231.188.200:8089/hls/23/index.m3u8
-深圳体育健康,http://220.231.188.200:8089/hls/24/index.m3u8
-深圳少儿,http://220.231.188.200:8089/hls/25/index.m3u8
-深圳公共,http://220.231.188.200:8089/hls/26/index.m3u8
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
