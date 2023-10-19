@@ -142,7 +142,7 @@ ELEVEN1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a6
 ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
 纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
-深圳体育健康,http://angtv.cn/live/guangzhou.php?id=jingsai
+深圳体育健康,http://angtv.cc/jd/sz.php?id=szty
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
@@ -365,6 +365,13 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 东莞生活资讯,http://ainm.cc/a/play/php/gudou.php?id=dg2hd
 东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳都市,http://angtv.cc/jd/sz.php?id=szds
+深圳电视剧,http://angtv.cc/jd/sz.php?id=szdsj
+深圳财经生活,http://angtv.cc/jd/sz.php?id=szcj
+深圳娱乐,http://angtv.cc/jd/sz.php?id=szyl
+深圳体育健康,http://angtv.cc/jd/sz.php?id=szty
+深圳少儿,http://angtv.cc/jd/sz.php?id=szse
+深圳公共,http://angtv.cc/jd/sz.php?id=szgg
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 广东珠江,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
