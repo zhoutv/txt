@@ -149,6 +149,7 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
 辽宁体育,http://angtv.cc/test/lngd.php?id=611
 成都公共,http://zgntv.icu/test/cdmp.php?id=cdgg
+成都公共,http://live.aptvapp.com/sxg.php?id=CDTV-5_4000
 杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
 纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
