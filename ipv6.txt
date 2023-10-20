@@ -158,6 +158,8 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 江苏体育,http://angtv.cn/live/jstv.php?id=jsty
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
+大连文体,http://live.dltv.cn/hxT7Fc3/500/r4ohxs7.m3u8
 咪咕直播,#genre#
 咪咕直播4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
@@ -359,6 +361,7 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 江苏优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+福建少儿,https://cntv.sbs/tv?auth=2310201855&id=fjse
 地方频道,#genre#
 东莞新闻综合,http://ainm.cc/a/play/php/gudou.php?id=dg1hd
 东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
