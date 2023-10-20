@@ -137,6 +137,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 劲爆体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
+劲爆体育,http://ainm.cc/a/play/php/gudou.php?id=jbtyhd
 爱尔达体育1台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-02a039f4-6b42-46d1-8fd9-52a37eed01d7/index.m3u8?by=yeslivetv.com
 爱尔达体育2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8fbfcbf2-c671-4f3c-8080-ea7a29211b3c/index.m3u8?by=yeslivetv.com
 爱尔达体育3台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-52e76209-f3d6-41fb-8623-efec93886f42/index.m3u8?by=yeslivetv.com
@@ -303,6 +304,7 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-430e29fb-9581-4404-ac71-c1a44b5cac4c/index.m3u8?by=yeslivetv.com
+翡翠台,http://ainm.cc/a/play/php/gudou.php?id=fct
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
