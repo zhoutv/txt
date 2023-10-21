@@ -149,11 +149,12 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
+深圳体育健康,http://183.238.218.219:9600/hls/32/index.m3u8
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
 深圳体育健康,http://angtv.cc/jd/sz.php?id=szty
+辽宁体育,http://angtv.cc/test/lngd.php?id=611
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-辽宁体育,http://angtv.cc/test/lngd.php?id=611
 成都公共,http://zgntv.icu/test/cdmp.php?id=cdgg
 成都公共,http://live.aptvapp.com/sxg.php?id=CDTV-5_4000
 杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
@@ -164,7 +165,6 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
-大连文体,http://live.dltv.cn/hxT7Fc3/500/r4ohxs7.m3u8
 咪咕直播,#genre#
 咪咕直播4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
