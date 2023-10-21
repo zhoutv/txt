@@ -387,8 +387,10 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 广东珠江,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://angtv.cc/jd/gdlz.php?id=gdzj2
 大湾区卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
+大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://mqiptv.com:8014/ch/custom28/mqlive.m3u8
 大湾区卫视,http://218.17.216.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
