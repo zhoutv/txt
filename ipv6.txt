@@ -114,6 +114,7 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 北京体育休闲,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://angtv.cn/live/bjapp.php?id=tyxx
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c04aa4b9bb-0-0-a38abd67713e29d8e9b367b5a28381d0/index.m3u8
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.243:8000
