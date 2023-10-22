@@ -112,6 +112,8 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
 五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
+北京体育休闲,http://jh.d7g.cn/tv/gh.php?id=BTVjishiSD_1200
+北京体育休闲,http://jh.d7g.cn/tv/gh.php?id=BTVjishiHD_6000
 北京体育休闲,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://angtv.cn/live/bjapp.php?id=tyxx
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c04aa4b9bb-0-0-a38abd67713e29d8e9b367b5a28381d0/index.m3u8
@@ -125,7 +127,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 新视觉HD,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls0
 魅力足球,http://live.aptvapp.com/sxg.php?id=mlyy_4000
 魅力足球,http://111.40.196.27:443/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
-广东体育,http://113.86.204.68:808/hls/21/index.m3u8
+广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
 广东体育,http://218.15.121.130:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
 广东体育,http://link.sczhgx.com:54359/hls/53/index.m3u8
@@ -165,6 +167,7 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
+大连文体,http://angtv.cc/test/dltv.php?id=wt
 咪咕直播,#genre#
 咪咕直播4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
@@ -359,6 +362,7 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 少儿动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 广东少儿,http://218.17.216.102:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,https://php.17186.eu.org/gdtv/gdse.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
@@ -386,11 +390,21 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 广东珠江,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://angtv.cc/jd/gdlz.php?id=gdzj2
+广东珠江,https://php.17186.eu.org/gdtv/gdzj.m3u8 
 大湾区卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
 大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://mqiptv.com:8014/ch/custom28/mqlive.m3u8
 大湾区卫视,http://218.17.216.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls
+广东影视,https://php.17186.eu.org/gdtv/gdys.m3u8
+广东珠江,https://php.17186.eu.org/gdtv/gdzj.m3u8 
+广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8 
+广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8 
+广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
+大湾卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8 
+广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8 
+广东国际,https://php.17186.eu.org/gdtv/gdgj.m3u8 
+广东少儿,https://php.17186.eu.org/gdtv/gdse.m3u8
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
