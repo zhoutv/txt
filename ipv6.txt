@@ -147,7 +147,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 爱尔达体育3台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-52e76209-f3d6-41fb-8623-efec93886f42/index.m3u8?by=yeslivetv.com
 Eleven Sports1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a65627efa874/index.m3u8?by=yeslivetv.com
 Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
-纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
+纬来体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-40aae5cf-48aa-4277-aff2-dc0bbcc316df/index.m3u8?by=yeslivetv.com
 纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
