@@ -329,7 +329,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 ViuTV,http://r.jdshipin.com/vSJvl
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
-TVBS新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/787381558-877613977/index.m3u8?by=yeslivetv.com
+TVBS新闻台,https://pull-f5-spe.ixigua.com/yeslivetv.com/787381558-877613977/index.m3u8?by=yeslivetv.com
 东森新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
 年代新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
