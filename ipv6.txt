@@ -114,7 +114,7 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 五星体育,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 五星体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 北京体育休闲,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
-北京体育休闲,http://angtv.cn/live/bjapp.php?id=tyxx
+北京体育休闲,http://angtv.cc/live/bjapp.php?id=tyxx
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c04aa4b9bb-0-0-a38abd67713e29d8e9b367b5a28381d0/index.m3u8
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京体育休闲,http://www.zzmd.fun:8888/udp/239.3.1.97:8001
@@ -141,16 +141,17 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882
 劲爆体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
+劲爆体育,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
 劲爆体育,http://ainm.cc/a/play/php/gudou.php?id=jbtyhd
 爱尔达体育1台,https://pull-f5-spe.ixigua.com/yeslivetv.com/b8193dfe-1cdb-448e-9630-8507e5974f3f/index.m3u8?by=yeslivetv.com
 爱尔达体育2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8fbfcbf2-c671-4f3c-8080-ea7a29211b3c/index.m3u8?by=yeslivetv.com
 爱尔达体育3台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-52e76209-f3d6-41fb-8623-efec93886f42/index.m3u8?by=yeslivetv.com
-Eleven Sports1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a65627efa874/index.m3u8?by=yeslivetv.com
-Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
+Eleven Sports1,https://pull-f5-spe.ixigua.com/yeslivetv.com/686415690-572689995/index.m3u8?by=yeslivetv.com
+Eleven Sports2,https://pull-f5-spe.ixigua.com/yeslivetv.com/174906060-294079453/index.m3u8?by=yeslivetv.com
 纬来体育,https://pull-f5-spe.ixigua.com/yeslivetv.com/e799bedd-994c-45ef-bf15-852f6ff06bab/index.m3u8?by=yeslivetv.com
 纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
-新疆体育,http://angtv.cn/test/xjtvs.php?id=xjty
+新疆体育,http://angtv.cc/test/xjtvs.php?id=xjty
 深圳体育健康,http://183.238.218.219:9600/hls/32/index.m3u8
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
 深圳体育健康,http://angtv.cc/jd/sz.php?id=szty
@@ -161,9 +162,9 @@ Eleven Sports2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-
 成都公共,http://live.aptvapp.com/sxg.php?id=CDTV-5_4000
 杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 天下足球,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000432/index.m3u8?IAS
-广州南国都市,http://angtv.cn/live/guangzhou.php?id=shenghuo
-广州竞赛,http://angtv.cn/live/guangzhou.php?id=jingsai
-江苏体育,http://angtv.cn/live/jstv.php?id=jsty
+广州南国都市,http://angtv.cc/live/guangzhou.php?id=shenghuo
+广州竞赛,http://angtv.cc/live/guangzhou.php?id=jingsai
+江苏体育,http://angtv.cc/live/jstv.php?id=jsty
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
@@ -328,6 +329,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 ViuTV,http://r.jdshipin.com/vSJvl
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
+TVBS新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/787381558-877613977/index.m3u8?by=yeslivetv.com
 东森新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
 年代新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
@@ -337,7 +339,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 欧洲华文电视1台,http://angtv.cc/test/eztv.php?id=tv1
 欧洲华文电视2台,http://angtv.cc/test/eztv.php?id=tv2
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-美国CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+美国CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 ABCAUSTRALIA,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -382,9 +384,9 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 福建少儿,https://cntv.sbs/tv?auth=2310201855&id=fjse
 地方频道,#genre#
 东莞新闻综合,http://ainm.cc/a/play/php/gudou.php?id=dg1hd
-东莞新闻综合,http://angtv.cn/test/dgrtv.php?id=xwzh
+东莞新闻综合,http://angtv.cc/test/dgrtv.php?id=xwzh
 东莞生活资讯,http://ainm.cc/a/play/php/gudou.php?id=dg2hd
-东莞生活资讯,http://angtv.cn/test/dgrtv.php?id=shzx
+东莞生活资讯,http://angtv.cc/test/dgrtv.php?id=shzx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://angtv.cc/jd/sz.php?id=szds
 深圳电视剧,http://angtv.cc/jd/sz.php?id=szdsj
