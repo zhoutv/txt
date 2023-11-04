@@ -387,9 +387,7 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 福建少儿,https://cntv.sbs/tv?auth=2310201855&id=fjse
 地方频道,#genre#
-东莞新闻综合,http://ainm.cc/a/play/php/gudou.php?id=dg1hd
 东莞新闻综合,http://angtv.cc/test/dgrtv.php?id=xwzh
-东莞生活资讯,http://ainm.cc/a/play/php/gudou.php?id=dg2hd
 东莞生活资讯,http://angtv.cc/test/dgrtv.php?id=shzx
 东莞新闻综合,http://yuming.dsmynas.com:8888/udp/239.21.0.137:3892
 东莞生活资讯,http://yuming.dsmynas.com:8888/udp/239.21.0.138:3896
@@ -421,12 +419,6 @@ CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094
 广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8 
 广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
 广东少儿,https://php.17186.eu.org/gdtv/gdse.m3u8
-河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
-河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
-河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
-河北公共,https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
-河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
-河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 iHOT爱4K,#genre#
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 4k修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
