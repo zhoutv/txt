@@ -176,7 +176,6 @@ DUBAI体育1台,https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisport
 DUBAI体育2台,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 DUBAI体育2台,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 DUBAI体育3台,https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-大连文体,http://angtv.cc/test/dltv.php?id=wt
 咪咕直播,#genre#
 咪咕直播4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
